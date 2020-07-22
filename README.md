@@ -1,2 +1,2 @@
 # LunarSol
-Simulation of Helium-3 retention on lunar surface due to the effect of solar wind
+Simulation of volatiles on lunar surface due to the effect of solar wind
